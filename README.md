@@ -64,11 +64,11 @@
         <div class="projects">
             <h2>📂 Projects</h2>
             <ul>
-                <li><strong><a href="https://github.com/your-username/selenium-automation">Automation Testing with Selenium</a></strong>: A project demonstrating automated UI testing using Selenium WebDriver and Python.</li>
-                <li><strong><a href="https://github.com/your-username/api-testing-postman">API Testing with Postman</a></strong>: A collection of Postman tests for various REST APIs, showcasing different testing scenarios.</li>
-                <li><strong><a href="https://github.com/your-username/performance-testing-jmeter">Performance Testing with JMeter</a></strong>: A repository of JMeter test plans and scripts for load testing web applications.</li>
-                <li><strong><a href="https://github.com/your-username/postgresql-testing">Database Testing with PostgreSQL</a></strong>: Examples of database testing using PostgreSQL, including setup and query validation.</li>
-                <li><strong><a href="https://github.com/your-username/mobile-testing">Mobile Testing</a></strong>: A project for testing mobile applications on different platforms and devices.</li>
+                <li><strong><a href="https://github.com/hari-haran06/selenium-automation">Automation Testing with Selenium</a></strong>: A project demonstrating automated UI testing using Selenium WebDriver and Python.</li>
+                <li><strong><a href="https://github.com/hari-haran06/api-testing-postman">API Testing with Postman</a></strong>: A collection of Postman tests for various REST APIs, showcasing different testing scenarios.</li>
+                <li><strong><a href="https://github.com/hari-haran06/performance-testing-jmeter">Performance Testing with JMeter</a></strong>: A repository of JMeter test plans and scripts for load testing web applications.</li>
+                <li><strong><a href="https://github.com/hari-haran06/postgresql-testing">Database Testing with PostgreSQL</a></strong>: Examples of database testing using PostgreSQL, including setup and query validation.</li>
+                <li><strong><a href="https://github.com/hari-haran06/mobile-testing">Mobile Testing</a></strong>: A project for testing mobile applications on different platforms and devices.</li>
             </ul>
         </div>
 
@@ -76,7 +76,7 @@
             <h2>📫 Connect with Me</h2>
             <p>
                 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/hari-haran-671817263/">Hari Haran</a><br>
-                <strong>GitHub</strong>: <a href="https://github.com/hari-haran06">your-username</a>
+                <strong>GitHub</strong>: <a href="https://github.com/hari-haran06">hari-haran06</a>
             </p>
         </div>
 
